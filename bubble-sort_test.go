@@ -1,7 +1,7 @@
 package sort
 
 import (
-"testing"
+	"testing"
 )
 
 func Test_Bubble_MaxAtHead(t *testing.T) {
@@ -57,4 +57,3 @@ func Test_Bubble_Null(t *testing.T) {
 		}
 	}
 }
-
